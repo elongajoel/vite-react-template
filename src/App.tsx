@@ -1,4 +1,3 @@
-import React from "react";
 import { useKanban } from "./context/KanbanContext";
 
 function App() {
