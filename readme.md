@@ -38,4 +38,6 @@ The configuration for Caddy is called a Caddyfile, and you can edit that file to
 - [root](https://caddyserver.com/docs/caddyfile/directives/root)
 - [encode](https://caddyserver.com/docs/caddyfile/directives/encode)
 - [file_server](https://caddyserver.com/docs/caddyfile/directives/file_server)
-- [try_files](https://caddyserver.com/docs/caddyfile/directives/try_files)
+- [try_files](https://caddyserver.com/docs/caddyfile/directives/try_files)# trello-front-true
+# trello-front-true
+# front-trello
